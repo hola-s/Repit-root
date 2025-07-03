@@ -2,7 +2,7 @@
 coppy all
 |
 
-wget 
+wget https://github.com/techcode1001/replit_root/releases/download/v1.0/yt.zip
 
 unzip yt.zip
 
